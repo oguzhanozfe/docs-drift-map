@@ -1,0 +1,46 @@
+{
+  "summary": "5 action references checked. 2 have a recorded rename.",
+  "metrics": {
+    "References": 5,
+    "Current": 1,
+    "Renamed": 2,
+    "Need review": 2
+  },
+  "rows": [
+    {
+      "Line": 2,
+      "Section": "Publish a dispatch",
+      "Guide label": "Warehouse",
+      "Status": "Current",
+      "Candidate": "Warehouse"
+    },
+    {
+      "Line": 2,
+      "Section": "Publish a dispatch",
+      "Guide label": "Create shipment",
+      "Status": "Renamed",
+      "Candidate": "Create dispatch"
+    },
+    {
+      "Line": 5,
+      "Section": "Approval",
+      "Guide label": "Shipment history",
+      "Status": "Renamed",
+      "Candidate": "Dispatch history"
+    },
+    {
+      "Line": 5,
+      "Section": "Approval",
+      "Guide label": "Request review",
+      "Status": "Unverified",
+      "Candidate": "Request approval"
+    },
+    {
+      "Line": 6,
+      "Section": "Approval",
+      "Guide label": "Send it now",
+      "Status": "Unverified",
+      "Candidate": "Send now"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "guide": "# Publish a dispatch\nSelect **Warehouse** and click **Create shipment**.\n\n## Approval\nOpen `Shipment history`. Press “Request review”.\nTap **Send it now**.",
+  "controls": [
+    {
+      "label": "Warehouse"
+    },
+    {
+      "label": "Create dispatch",
+      "formerly": [
+        "Create shipment"
+      ]
+    },
+    {
+      "label": "Dispatch history",
+      "formerly": [
+        "Shipment history"
+      ]
+    },
+    {
+      "label": "Request approval"
+    },
+    {
+      "label": "Send now"
+    }
+  ]
+}

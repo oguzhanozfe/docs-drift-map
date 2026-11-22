@@ -2,6 +2,8 @@
 
 Check the actions named in a Markdown guide against the labels in your current interface.
 
+**[Open the live demo](https://oguzhanozfe.github.io/docs-drift-map/)** · [Browser features and setup](demo/DEMO.md)
+
 ![Docs Drift Map showing the included example in the browser](docs/preview.png)
 
 [Deploy to Render](https://render.com/deploy?repo=https://github.com/oguzhanozfe/docs-drift-map) · [Example input](example.json) · [Computed report](docs/example-report.json) · [Model settings](#connect-a-model)

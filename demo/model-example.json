@@ -1,0 +1,14 @@
+{
+  "model": "gemma-4-e4b-it",
+  "text": "Row 4 · What verification steps are needed for the change from \"Request review\" to \"Request approval\"?",
+  "row": 4,
+  "record": {
+    "Line": 5,
+    "Section": "Approval",
+    "Guide label": "Request review",
+    "Status": "Unverified",
+    "Candidate": "Request approval"
+  },
+  "source_sha256": "584c6b25eafaf0a866824247f75227517ee39d4a8bd3d5106fe3859ea1386b4c",
+  "report_sha256": "d1c8ef96554087a0821b4c550d33e75e7cd67078c57bc64fa8738316f66d59de"
+}
